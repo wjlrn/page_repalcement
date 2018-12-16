@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1544249985 source:c:\users\wanajinae\desktop\操作系统课设\op\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<iterator>
+	<vector>
+	<time.h>
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<vector>
+	<cmath>
+	<cstddef>
+
